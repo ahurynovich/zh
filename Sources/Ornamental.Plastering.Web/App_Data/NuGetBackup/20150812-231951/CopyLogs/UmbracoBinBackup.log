@@ -1,0 +1,27 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Aug 12 23:19:51 2015
+
+   Source : D:\Private\Work\Ornamental.Plastering\Ornamental.Plastering\bin\
+     Dest : D:\Private\Work\Ornamental.Plastering\Ornamental.Plastering\App_Data\NuGetBackup\20150812-231951\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	D:\Private\Work\Ornamental.Plastering\Ornamental.Plastering\bin\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+   Ended : Wed Aug 12 23:19:51 2015
